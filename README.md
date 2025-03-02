@@ -76,15 +76,6 @@ To connect pgAdmin to the PostgreSQL database running in Docker, follow these st
 ✔ Ensure PostgreSQL is running inside Docker:
 ```bash
 docker ps
-
-
-
-
-
-
-
-
-
 ---
 
 ## 📌 Running the Application with Docker
